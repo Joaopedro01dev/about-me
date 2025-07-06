@@ -1,0 +1,45 @@
+body{
+    background-color: #ACE1AF;
+    color: #333333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main, footer{
+    width: 80%;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding: 20px;
+}
+
+#page-title{
+    background-color: #42c382;
+    text-align: center;
+    color: rgb(41, 40, 40);
+    font-size: 36px
+
+}
+
+footer{
+    text-align: center;
+}
+
+a{
+    font-weight: bold;
+    color: #003366
+}
+
+h2{
+    color: #2F4F4F;
+    font-size: 1.75rem;
+}
+
+p, li{
+    font-size: 1rem;
+}
+
+.hobby{
+    background-color: #42c382;
+    font-weight: bold;
+}
